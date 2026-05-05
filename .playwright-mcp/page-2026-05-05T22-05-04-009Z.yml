@@ -1,0 +1,453 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]: s
+      - generic [ref=e7]: Stop your scroll
+    - generic [ref=e8]:
+      - link "Comment ca marche" [ref=e9] [cursor=pointer]:
+        - /url: "#how"
+      - link "Manifeste" [ref=e10] [cursor=pointer]:
+        - /url: "#manifeste"
+      - link "Tarifs" [ref=e11] [cursor=pointer]:
+        - /url: "#pricing"
+      - link "FAQ" [ref=e12] [cursor=pointer]:
+        - /url: "#faq"
+    - generic [ref=e13]:
+      - generic [ref=e14] [cursor=pointer]: Connexion
+      - button "Telecharger" [ref=e15] [cursor=pointer]
+  - generic [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]: Calm tech, sans gamification
+      - heading "Reprends tes soirees. Sans te juger." [level=1] [ref=e19]:
+        - text: Reprends tes soirees.
+        - text: Sans te juger.
+      - paragraph [ref=e20]: On choisit pour toi. Tes scrolls deviennent des heures de lecture, de marche, de the. Par paliers — 14 h, 10 h, 7 h. Jusqu'a devenir inutile.
+      - generic [ref=e21]:
+        - button "Telecharger pour iPhone" [ref=e22] [cursor=pointer]
+        - button "Voir la demo" [ref=e23] [cursor=pointer]
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e26]: 9 h
+          - generic [ref=e27]: recuperees par semaine
+        - generic [ref=e28]:
+          - generic [ref=e29]: 7 j
+          - generic [ref=e30]: d'essai gratuit
+        - generic [ref=e31]:
+          - generic [ref=e32]: "0"
+          - generic [ref=e33]: streak, badge ou notif inutile
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]: Etape 1 sur 4
+            - generic [ref=e46]: Faisons connaissance.
+          - generic [ref=e47]:
+            - generic [ref=e48]: Bonsoir. Je suis la pour t'aider a reprendre tes soirees.
+            - generic [ref=e49]: Quelle app prend le plus de ton temps en ce moment ?
+            - generic [ref=e50]: Instagram, surtout le soir.
+          - generic [ref=e56]:
+            - generic [ref=e57]: Ecris une reponse...
+            - img [ref=e59]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ton plan
+                      - generic:
+                        - text: Cette semaine,
+                        - text: 17 h liberees.
+                      - generic:
+                        - generic: Objectif
+                        - generic: 7 h / sem
+                        - generic: ·
+                        - generic: au lieu de 14 h
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: 18h
+                            - generic: 20h
+                            - generic: 22h
+                            - generic: 24h
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic: 20:50
+                                  - generic: lecture
+                              - generic:
+                                - generic:
+                                  - generic: 20:50
+                                  - generic: lecture
+                              - generic:
+                                - generic:
+                                  - generic: 21:30
+                                  - generic: lecture
+                              - generic:
+                                - generic:
+                                  - generic: 20:50
+                                  - generic: lecture
+                              - generic:
+                                - generic:
+                                  - generic: 22:00
+                                  - generic: film
+                              - generic:
+                                - generic:
+                                  - generic: 23:00
+                                  - generic: lecture
+                              - generic:
+                                - generic:
+                                  - generic: 20:30
+                                  - generic: lecture
+                            - generic:
+                              - generic: Lun
+                              - generic: Mar
+                              - generic: Mer
+                              - generic: Jeu
+                              - generic: Ven
+                              - generic: Sam
+                              - generic: Dim
+                      - generic:
+                        - generic:
+                          - generic: Prochain creneau
+                          - generic: Ce soir · 20:50 — 23:20
+                          - generic: lecture
+                        - button "Ajuster"
+                    - generic:
+                      - generic: Plan
+                      - generic: Aujourd'hui
+                      - generic: Reglages
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: mercredi 6 mai
+                      - generic: 20:40
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: s
+                          - generic: Stop your scroll
+                          - generic: maintenant
+                        - generic: Dans 10 minutes, on coupe.
+                        - generic: Sors ton livre, prepare ton the. Le canape t'attend jusqu'a 23:20.
+                        - generic:
+                          - button "Compris"
+                          - button "Preparer maintenant"
+                      - generic:
+                        - generic: Tu as choisi ce creneau lundi.
+                        - generic: Plan
+                    - generic: Glisse pour ouvrir
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Creneau en cours
+                      - generic: 20:50 — 23:20
+                    - generic:
+                      - generic:
+                        - img
+                        - generic:
+                          - generic: Reste
+                          - generic: 1:27
+                          - generic: jusqu'a 23:20
+                      - generic:
+                        - generic: Tu as choisi de lire jusqu'a 23:20.
+                        - generic: Instagram peut attendre. Ton livre est sur la table de chevet.
+                      - generic: + 25 min cette semaine
+                    - generic:
+                      - generic:
+                        - generic: Maintiens pour passer outre
+                      - generic: Aucun jugement. Demain, on continue.
+      - generic [ref=e66]: 01 · Faisons connaissance
+  - generic [ref=e67]:
+    - generic [ref=e69]:
+      - generic [ref=e70]: Comment ca marche
+      - heading "Trois etapes. Puis l'app s'efface." [level=2] [ref=e71]
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e75]: "01"
+        - generic [ref=e77]:
+          - heading "Tu reponds a quelques questions." [level=3] [ref=e78]
+          - paragraph [ref=e79]: Une conversation courte, pas un formulaire. Quelle app, combien d'heures, qu'est-ce que tu aimerais faire a la place.
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - generic [ref=e88]: Etape 1 sur 4
+            - generic [ref=e89]: Faisons connaissance.
+          - generic [ref=e90]:
+            - generic [ref=e91]: Bonsoir. Je suis la pour t'aider a reprendre tes soirees.
+            - generic [ref=e92]: Quelle app prend le plus de ton temps en ce moment ?
+            - generic [ref=e93]: Instagram, surtout le soir.
+          - generic [ref=e99]:
+            - generic [ref=e100]: Ecris une reponse...
+            - img [ref=e102]
+      - generic [ref=e104]:
+        - generic [ref=e106]: "02"
+        - generic [ref=e108]:
+          - heading "On te rend ton plan, deja decide." [level=3] [ref=e109]
+          - paragraph [ref=e110]: Tes creneaux sont poses sur la semaine. Plus rien a arbitrer. Tu peux ajuster si vraiment besoin.
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: Ton plan
+            - generic [ref=e120]:
+              - text: Cette semaine,
+              - text: 17 h liberees.
+            - generic [ref=e121]:
+              - generic [ref=e122]: Objectif
+              - generic [ref=e123]: 7 h / sem
+              - generic [ref=e124]: ·
+              - generic [ref=e125]: au lieu de 14 h
+          - generic [ref=e126]:
+            - generic [ref=e128]:
+              - generic [ref=e129]:
+                - generic [ref=e130]: 18h
+                - generic [ref=e131]: 20h
+                - generic [ref=e132]: 22h
+                - generic [ref=e133]: 24h
+              - generic [ref=e134]:
+                - generic [ref=e139]:
+                  - generic [ref=e141]:
+                    - generic [ref=e142]: 20:50
+                    - generic [ref=e143]: lecture
+                  - generic [ref=e145]:
+                    - generic [ref=e146]: 20:50
+                    - generic [ref=e147]: lecture
+                  - generic [ref=e149]:
+                    - generic [ref=e150]: 21:30
+                    - generic [ref=e151]: lecture
+                  - generic [ref=e153]:
+                    - generic [ref=e154]: 20:50
+                    - generic [ref=e155]: lecture
+                  - generic [ref=e157]:
+                    - generic [ref=e158]: 22:00
+                    - generic [ref=e159]: film
+                  - generic [ref=e161]:
+                    - generic [ref=e162]: 23:00
+                    - generic [ref=e163]: lecture
+                  - generic [ref=e165]:
+                    - generic [ref=e166]: 20:30
+                    - generic [ref=e167]: lecture
+                - generic [ref=e168]:
+                  - generic [ref=e169]: Lun
+                  - generic [ref=e170]: Mar
+                  - generic [ref=e171]: Mer
+                  - generic [ref=e172]: Jeu
+                  - generic [ref=e173]: Ven
+                  - generic [ref=e174]: Sam
+                  - generic [ref=e175]: Dim
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e178]: Prochain creneau
+                - generic [ref=e179]: Ce soir · 20:50 — 23:20
+                - generic [ref=e180]: lecture
+              - button "Ajuster" [ref=e181] [cursor=pointer]
+          - generic [ref=e182]:
+            - generic [ref=e183]: Plan
+            - generic [ref=e184]: Aujourd'hui
+            - generic [ref=e185]: Reglages
+      - generic [ref=e186]:
+        - generic [ref=e188]: "03"
+        - generic [ref=e190]:
+          - heading "On te previent, doucement." [level=3] [ref=e191]
+          - paragraph [ref=e192]: Dix minutes avant, un mot bienveillant. Pendant le creneau, l'app sociale ne s'ouvre pas. Skip volontairement difficile.
+        - generic [ref=e199]:
+          - generic [ref=e200]:
+            - generic [ref=e201]: mercredi 6 mai
+            - generic [ref=e202]: 20:40
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]:
+                - generic [ref=e206]: s
+                - generic [ref=e207]: Stop your scroll
+                - generic [ref=e208]: maintenant
+              - generic [ref=e209]: Dans 10 minutes, on coupe.
+              - generic [ref=e210]: Sors ton livre, prepare ton the. Le canape t'attend jusqu'a 23:20.
+              - generic [ref=e211]:
+                - button "Compris" [ref=e212] [cursor=pointer]
+                - button "Preparer maintenant" [ref=e213] [cursor=pointer]
+            - generic [ref=e214]:
+              - generic [ref=e215]: Tu as choisi ce creneau lundi.
+              - generic [ref=e216]: Plan
+          - generic [ref=e217]: Glisse pour ouvrir
+  - generic [ref=e218]:
+    - generic [ref=e225]:
+      - generic [ref=e226]:
+        - generic [ref=e227]: mercredi 6 mai
+        - generic [ref=e228]: 20:14
+      - generic [ref=e229]:
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - img [ref=e232]
+            - generic [ref=e235]:
+              - generic [ref=e236]: Reste
+              - generic [ref=e237]: 1:27
+          - generic [ref=e238]:
+            - generic [ref=e239]: Ce soir
+            - generic [ref=e240]: Lecture jusqu'a 23:20.
+            - generic [ref=e241]: Instagram en pause · 2h30
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - generic [ref=e244]: Semaine
+            - generic [ref=e245]:
+              - generic [ref=e246]: 4 / 7 h
+              - generic [ref=e255]: Tu tiens le rythme.
+          - generic [ref=e256]:
+            - generic [ref=e257]: A la place
+            - generic [ref=e258]:
+              - generic [ref=e259]: lecture
+              - generic [ref=e260]: 20:50 — 23:20
+              - generic [ref=e263]: Demarre dans 36 min
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - generic [ref=e267]: s
+            - generic [ref=e268]: Plan
+          - generic [ref=e271]: Lire
+          - generic [ref=e274]: Notes
+          - generic [ref=e277]: Reveil
+    - generic [ref=e288]:
+      - generic [ref=e289]: Sur ton ecran d'accueil
+      - heading "Un rappel discret. Jamais une alarme." [level=2] [ref=e290]
+      - paragraph [ref=e291]: "Trois tailles, quatre contenus. Tu choisis ce que tu veux voir : le prochain creneau, la progression de la semaine, l'anneau seul, ou ton plan du jour. Le widget se met a jour tout seul."
+      - generic [ref=e292]:
+        - generic [ref=e293]:
+          - generic [ref=e294]: "01"
+          - generic [ref=e295]:
+            - generic [ref=e296]: Prochain creneau
+            - generic [ref=e297]: Activite, heure, compte a rebours.
+        - generic [ref=e298]:
+          - generic [ref=e299]: "02"
+          - generic [ref=e300]:
+            - generic [ref=e301]: Progression de la semaine
+            - generic [ref=e302]: Heures liberees sur l'objectif.
+        - generic [ref=e303]:
+          - generic [ref=e304]: "03"
+          - generic [ref=e305]:
+            - generic [ref=e306]: Anneau seul
+            - generic [ref=e307]: Discret. Aucun texte.
+        - generic [ref=e308]:
+          - generic [ref=e309]: "04"
+          - generic [ref=e310]:
+            - generic [ref=e311]: Plan du jour
+            - generic [ref=e312]: Tous les creneaux d'aujourd'hui.
+  - generic [ref=e313]:
+    - generic [ref=e314]:
+      - generic [ref=e315]: Vue d'ensemble
+      - heading "Tu vois la transformation, pas tes echecs." [level=2] [ref=e316]:
+        - text: Tu vois la transformation,
+        - text: pas tes echecs.
+      - paragraph [ref=e317]: Le temps libere, les paliers franchis, les habitudes qui s'installent. Pas de streak qui te punit si tu craques. Tu tiens, ou tu ne tiens pas. Demain on continue.
+    - generic [ref=e324]:
+      - generic [ref=e325]:
+        - generic [ref=e326]: Vue d'ensemble · semaine 19
+        - generic [ref=e327]:
+          - text: Tu as recupere
+          - text: 9 h 12 sur les ecrans.
+        - generic [ref=e328]: Sur un objectif de 7 h liberees par semaine. Continue, sans te presser.
+      - generic [ref=e330]:
+        - generic [ref=e331]:
+          - generic [ref=e332]: Objectif hebdomadaire
+          - generic [ref=e333]: 4 / 7 h
+        - generic [ref=e336]:
+          - generic [ref=e339]: L
+          - generic [ref=e342]: M
+          - generic [ref=e345]: M
+          - generic [ref=e348]: J
+          - generic [ref=e351]: V
+          - generic [ref=e354]: S
+          - generic [ref=e357]: D
+        - generic [ref=e358]: Encore 3 h a liberer d'ici dimanche. Trois creneaux suffisent.
+      - generic [ref=e359]:
+        - generic [ref=e360]:
+          - generic [ref=e361]: Temps libere
+          - generic [ref=e362]: 32 h
+          - generic [ref=e363]: depuis le 14 avril
+          - img [ref=e364]
+        - generic [ref=e366]:
+          - generic [ref=e367]: Palier
+          - generic [ref=e368]: 10 h → 7 h
+          - generic [ref=e369]: en cours · semaine 3 sur 4
+          - generic [ref=e370]:
+            - generic [ref=e373]: 14 h
+            - generic [ref=e376]: 10 h
+            - generic [ref=e377]:
+              - generic [ref=e379]: 7 h
+              - generic [ref=e380]: maintenant
+            - generic [ref=e383]: 5 h
+      - generic [ref=e384]:
+        - generic [ref=e385]:
+          - generic [ref=e386]: Bonnes habitudes
+          - generic [ref=e387]: Voir tout
+        - generic [ref=e388]:
+          - generic [ref=e389]:
+            - generic [ref=e390]:
+              - generic [ref=e391]: lecture le soir
+              - generic [ref=e392]: 4 / 5
+            - generic [ref=e395]: hier · 2 h 14
+          - generic [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398]: marche apres le dejeuner
+              - generic [ref=e399]: 3 / 5
+            - generic [ref=e402]: aujourd'hui · 22 min
+          - generic [ref=e403]:
+            - generic [ref=e404]:
+              - generic [ref=e405]: the sans telephone
+              - generic [ref=e406]: 2 / 7
+            - generic [ref=e409]: lundi
+      - generic [ref=e410]:
+        - generic [ref=e412]: Prochains rappels
+        - generic [ref=e413]:
+          - generic [ref=e416]:
+            - generic [ref=e417]: Ce soir · 20:40
+            - generic [ref=e418]: Sors ton livre, prepare ton the.
+          - generic [ref=e421]:
+            - generic [ref=e422]: Demain · 12:30
+            - generic [ref=e423]: Dejeuner sans telephone.
+          - generic [ref=e426]:
+            - generic [ref=e427]: Vendredi · 22:00
+            - generic [ref=e428]: Film, pas de scroll.
+  - generic [ref=e429]:
+    - generic [ref=e430]:
+      - generic [ref=e431]: Tarifs
+      - heading "Simple. Et qui s'arrete." [level=2] [ref=e432]
+    - generic [ref=e433]:
+      - generic [ref=e434]:
+        - generic [ref=e435]: Essai
+        - generic [ref=e436]: 07 jours
+        - generic [ref=e437]:
+          - generic [ref=e440]: Tous les ecrans
+          - generic [ref=e443]: Un palier
+          - generic [ref=e446]: Un widget
+        - button "Choisir" [ref=e447] [cursor=pointer]
+      - generic [ref=e448]:
+        - generic [ref=e449]: Mensuel
+        - generic [ref=e450]: 4,90€ / mois
+        - generic [ref=e451]:
+          - generic [ref=e454]: Paliers illimites
+          - generic [ref=e457]: Widgets illimites
+          - generic [ref=e460]: Vue d'ensemble
+          - generic [ref=e463]: Annulable, evidemment
+        - button "Commencer" [ref=e464] [cursor=pointer]
+      - generic [ref=e465]:
+        - generic [ref=e466]: Annuel
+        - generic [ref=e467]: 39€ / an
+        - generic [ref=e468]:
+          - generic [ref=e471]: Tout du mensuel
+          - generic [ref=e474]: Deux mois offerts
+          - generic [ref=e477]: Acces anticipe
+        - button "Choisir" [ref=e478] [cursor=pointer]
+  - contentinfo [ref=e479]:
+    - generic [ref=e482]: Stop your scroll · 2026
+    - generic [ref=e483]:
+      - generic [ref=e484] [cursor=pointer]: Manifeste
+      - generic [ref=e485] [cursor=pointer]: Confidentialite
+      - generic [ref=e486] [cursor=pointer]: Conditions
+      - generic [ref=e487] [cursor=pointer]: Contact
